@@ -41,3 +41,5 @@ namespace mediatek86.model
         public override string ToString() => Nom + " " + Prenom;
     }
 }
+
+// Modèle représentant un membre du personnel
