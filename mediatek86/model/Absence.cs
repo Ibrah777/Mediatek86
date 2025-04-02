@@ -36,3 +36,5 @@ namespace mediatek86.model
         }
     }
 }
+
+// Modèle représentant une absence

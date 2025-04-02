@@ -25,3 +25,5 @@ namespace mediatek86.model
         public override string ToString() => LibelleMotif;
     }
 }
+
+// Modèle représentant un motif d'absence

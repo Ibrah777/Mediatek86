@@ -25,3 +25,5 @@ namespace mediatek86.model
         public override string ToString() => NomService;
     }
 }
+
+// Modèle représentant un service
