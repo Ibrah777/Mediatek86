@@ -74,3 +74,5 @@ namespace mediatek86.bddmanager
         }
     }
 }
+
+// Gestionnaire de connexion à la base de données MySQL
