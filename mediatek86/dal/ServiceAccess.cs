@@ -27,3 +27,5 @@ namespace mediatek86.dal
         }
     }
 }
+
+// Accès aux données des services

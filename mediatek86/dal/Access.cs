@@ -16,3 +16,5 @@ namespace mediatek86.dal
         protected readonly BddManager bddManager = BddManager.GetInstance(connectionString);
     }
 }
+
+// Classe de base pour l'accès aux données
