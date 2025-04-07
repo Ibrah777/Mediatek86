@@ -86,3 +86,5 @@ namespace mediatek86.controller
         }
     }
 }
+
+// Contrôleur principal reliant les vues et la DAL
