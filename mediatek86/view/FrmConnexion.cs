@@ -50,3 +50,5 @@ namespace mediatek86.view
         }
     }
 }
+
+// Vue de connexion sécurisée SHA-256
