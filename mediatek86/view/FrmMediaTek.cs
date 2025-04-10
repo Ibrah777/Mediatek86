@@ -232,3 +232,5 @@ namespace mediatek86.view
         }
     }
 }
+
+// Vue principale - gestion du personnel
