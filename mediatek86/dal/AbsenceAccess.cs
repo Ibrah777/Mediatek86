@@ -112,3 +112,5 @@ namespace mediatek86.dal
 }
 
 // Accès aux données des absences
+
+// Contrôle des chevauchements d'absences
