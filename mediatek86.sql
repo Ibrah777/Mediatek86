@@ -88,3 +88,5 @@ INSERT INTO absence (datedebut, datefin, idmotif, idpersonnel) VALUES
     ('2025-10-20', '2025-10-24', 3, 10),
     ('2025-11-03', '2025-11-07', 2, 1),
     ('2025-12-22', '2025-12-31', 4, 2);
+
+-- Script complet vérifié
