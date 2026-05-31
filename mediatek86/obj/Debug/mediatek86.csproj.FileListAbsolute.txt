@@ -1,0 +1,7 @@
+C:\Users\ibrahima\mediatek86\mediatek86\bin\Debug\mediatek86.exe.config
+C:\Users\ibrahima\mediatek86\mediatek86\bin\Debug\mediatek86.exe
+C:\Users\ibrahima\mediatek86\mediatek86\bin\Debug\mediatek86.pdb
+C:\Users\ibrahima\mediatek86\mediatek86\obj\Debug\mediatek86.csproj.AssemblyReference.cache
+C:\Users\ibrahima\mediatek86\mediatek86\obj\Debug\mediatek86.csproj.CoreCompileInputs.cache
+C:\Users\ibrahima\mediatek86\mediatek86\obj\Debug\mediatek86.exe
+C:\Users\ibrahima\mediatek86\mediatek86\obj\Debug\mediatek86.pdb
