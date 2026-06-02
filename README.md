@@ -105,5 +105,8 @@ Il faut ensuite :<br>
 . Lancer <code>mediatek86-installer/Debug/setup.exe</code> pour installer l'application, ou ouvrir la solution dans Visual Studio et exécuter le projet.<br>
 . Se connecter avec le login <code>admin</code> et le mot de passe <code>Admin123</code>.
 
+## Ressources
+. [Compte rendu d'activité et vidéo de démonstration](https://drive.google.com/drive/folders/1CbCGfrt2yqZuGiymWto44-OMchLcDWVP?usp=drive_link)
+
 ## Auteur
 El Hadj Ibrahima Dione — BTS SIO SLAM CNED
